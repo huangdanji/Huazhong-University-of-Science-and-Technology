@@ -1,1 +1,1 @@
-# Huazhong-University-of-Science-and-Technology
+# The way to Python
